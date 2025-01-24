@@ -1,9 +1,6 @@
 obj/
-Properties/
+Properties/ 
 
-# Ignore Visual Studio temporary files, directories, and files
 .vs/
-*.user
-*.suo
-*.userosscache
-*.sln.docstates
+MyCoreApp/bin/
+MyCoreApp/MyCoreApp.csproj.user
